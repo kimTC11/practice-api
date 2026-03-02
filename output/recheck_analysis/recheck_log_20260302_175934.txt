@@ -1,0 +1,228 @@
+2026-03-02 17:59:34 - ======================================================================
+2026-03-02 17:59:34 - RECHECK ERROR IDs - DETECT BOT BLOCKING
+2026-03-02 17:59:34 - ======================================================================
+2026-03-02 17:59:34 - Log file: output/recheck_analysis/recheck_log_20260302_175934.txt
+2026-03-02 17:59:34 - 
+Configuration:
+2026-03-02 17:59:34 -    - Total error IDs: 8210
+2026-03-02 17:59:34 -    - Attempts per ID: 10
+2026-03-02 17:59:34 -    - Concurrency: 10
+2026-03-02 17:59:34 -    - Total requests: 82,100
+2026-03-02 17:59:34 - 
+Estimated time: ~82.1 minutes
+
+2026-03-02 17:59:34 - Testing products...
+2026-03-02 18:24:41 - Progress: 50/8210 (0.6%) | Rate: 0.0 IDs/s | ETA: 245949s
+2026-03-02 18:24:42 - Progress: 100/8210 (1.2%) | Rate: 0.1 IDs/s | ETA: 122311s
+2026-03-02 18:24:43 - Progress: 150/8210 (1.8%) | Rate: 0.1 IDs/s | ETA: 81096s
+2026-03-02 18:24:44 - Progress: 200/8210 (2.4%) | Rate: 0.1 IDs/s | ETA: 60488s
+2026-03-02 18:24:45 - Progress: 250/8210 (3.0%) | Rate: 0.2 IDs/s | ETA: 48117s
+2026-03-02 18:24:46 - Progress: 300/8210 (3.7%) | Rate: 0.2 IDs/s | ETA: 39869s
+2026-03-02 18:24:47 - Progress: 350/8210 (4.3%) | Rate: 0.2 IDs/s | ETA: 33978s
+2026-03-02 18:24:48 - Progress: 400/8210 (4.9%) | Rate: 0.3 IDs/s | ETA: 29558s
+2026-03-02 18:24:49 - Progress: 450/8210 (5.5%) | Rate: 0.3 IDs/s | ETA: 26124s
+2026-03-02 18:24:50 - Progress: 500/8210 (6.1%) | Rate: 0.3 IDs/s | ETA: 23374s
+2026-03-02 18:24:51 - Progress: 550/8210 (6.7%) | Rate: 0.4 IDs/s | ETA: 21125s
+2026-03-02 18:24:52 - Progress: 600/8210 (7.3%) | Rate: 0.4 IDs/s | ETA: 19250s
+2026-03-02 18:24:53 - Progress: 650/8210 (7.9%) | Rate: 0.4 IDs/s | ETA: 17662s
+2026-03-02 18:24:54 - Progress: 700/8210 (8.5%) | Rate: 0.5 IDs/s | ETA: 16304s
+2026-03-02 18:24:55 - Progress: 750/8210 (9.1%) | Rate: 0.5 IDs/s | ETA: 15125s
+2026-03-02 18:24:56 - Progress: 800/8210 (9.7%) | Rate: 0.5 IDs/s | ETA: 14094s
+2026-03-02 18:24:57 - Progress: 850/8210 (10.4%) | Rate: 0.6 IDs/s | ETA: 13186s
+2026-03-02 18:24:58 - Progress: 900/8210 (11.0%) | Rate: 0.6 IDs/s | ETA: 12378s
+2026-03-02 18:24:59 - Progress: 950/8210 (11.6%) | Rate: 0.6 IDs/s | ETA: 11655s
+2026-03-02 18:25:00 - Progress: 1000/8210 (12.2%) | Rate: 0.7 IDs/s | ETA: 11005s
+2026-03-02 18:25:01 - Progress: 1050/8210 (12.8%) | Rate: 0.7 IDs/s | ETA: 10416s
+2026-03-02 18:25:02 - Progress: 1100/8210 (13.4%) | Rate: 0.7 IDs/s | ETA: 9878s
+2026-03-02 18:25:03 - Progress: 1150/8210 (14.0%) | Rate: 0.8 IDs/s | ETA: 9388s
+2026-03-02 18:25:04 - Progress: 1200/8210 (14.6%) | Rate: 0.8 IDs/s | ETA: 8938s
+2026-03-02 18:25:05 - Progress: 1250/8210 (15.2%) | Rate: 0.8 IDs/s | ETA: 8525s
+2026-03-02 18:25:06 - Progress: 1300/8210 (15.8%) | Rate: 0.8 IDs/s | ETA: 8144s
+2026-03-02 18:25:07 - Progress: 1350/8210 (16.4%) | Rate: 0.9 IDs/s | ETA: 7791s
+2026-03-02 18:25:08 - Progress: 1400/8210 (17.1%) | Rate: 0.9 IDs/s | ETA: 7463s
+2026-03-02 18:25:09 - Progress: 1450/8210 (17.7%) | Rate: 0.9 IDs/s | ETA: 7157s
+2026-03-02 18:25:10 - Progress: 1500/8210 (18.3%) | Rate: 1.0 IDs/s | ETA: 6872s
+2026-03-02 18:25:11 - Progress: 1550/8210 (18.9%) | Rate: 1.0 IDs/s | ETA: 6605s
+2026-03-02 18:25:12 - Progress: 1600/8210 (19.5%) | Rate: 1.0 IDs/s | ETA: 6355s
+2026-03-02 18:25:13 - Progress: 1650/8210 (20.1%) | Rate: 1.1 IDs/s | ETA: 6120s
+2026-03-02 18:25:14 - Progress: 1700/8210 (20.7%) | Rate: 1.1 IDs/s | ETA: 5899s
+2026-03-02 18:25:15 - Progress: 1750/8210 (21.3%) | Rate: 1.1 IDs/s | ETA: 5690s
+2026-03-02 18:25:17 - Progress: 1800/8210 (21.9%) | Rate: 1.2 IDs/s | ETA: 5494s
+2026-03-02 18:25:19 - Progress: 1850/8210 (22.5%) | Rate: 1.2 IDs/s | ETA: 5311s
+2026-03-02 18:25:20 - Progress: 1900/8210 (23.1%) | Rate: 1.2 IDs/s | ETA: 5136s
+2026-03-02 18:25:22 - Progress: 1950/8210 (23.8%) | Rate: 1.3 IDs/s | ETA: 4970s
+2026-03-02 18:25:24 - Progress: 2000/8210 (24.4%) | Rate: 1.3 IDs/s | ETA: 4813s
+2026-03-02 18:25:26 - Progress: 2050/8210 (25.0%) | Rate: 1.3 IDs/s | ETA: 4663s
+2026-03-02 18:25:27 - Progress: 2100/8210 (25.6%) | Rate: 1.4 IDs/s | ETA: 4519s
+2026-03-02 18:25:29 - Progress: 2150/8210 (26.2%) | Rate: 1.4 IDs/s | ETA: 4382s
+2026-03-02 18:25:30 - Progress: 2200/8210 (26.8%) | Rate: 1.4 IDs/s | ETA: 4251s
+2026-03-02 18:25:32 - Progress: 2250/8210 (27.4%) | Rate: 1.4 IDs/s | ETA: 4126s
+2026-03-02 18:25:34 - Progress: 2300/8210 (28.0%) | Rate: 1.5 IDs/s | ETA: 4008s
+2026-03-02 18:25:36 - Progress: 2350/8210 (28.6%) | Rate: 1.5 IDs/s | ETA: 3894s
+2026-03-02 18:25:37 - Progress: 2400/8210 (29.2%) | Rate: 1.5 IDs/s | ETA: 3784s
+2026-03-02 18:25:39 - Progress: 2450/8210 (29.8%) | Rate: 1.6 IDs/s | ETA: 3679s
+2026-03-02 18:25:41 - Progress: 2500/8210 (30.5%) | Rate: 1.6 IDs/s | ETA: 3578s
+2026-03-02 18:25:42 - Progress: 2550/8210 (31.1%) | Rate: 1.6 IDs/s | ETA: 3481s
+2026-03-02 18:25:44 - Progress: 2600/8210 (31.7%) | Rate: 1.7 IDs/s | ETA: 3387s
+2026-03-02 18:25:45 - Progress: 2650/8210 (32.3%) | Rate: 1.7 IDs/s | ETA: 3297s
+2026-03-02 18:25:47 - Progress: 2700/8210 (32.9%) | Rate: 1.7 IDs/s | ETA: 3210s
+2026-03-02 18:25:50 - Progress: 2750/8210 (33.5%) | Rate: 1.7 IDs/s | ETA: 3128s
+2026-03-02 18:25:51 - Progress: 2800/8210 (34.1%) | Rate: 1.8 IDs/s | ETA: 3048s
+2026-03-02 18:25:53 - Progress: 2850/8210 (34.7%) | Rate: 1.8 IDs/s | ETA: 2971s
+2026-03-02 18:25:55 - Progress: 2900/8210 (35.3%) | Rate: 1.8 IDs/s | ETA: 2895s
+2026-03-02 18:25:57 - Progress: 2950/8210 (35.9%) | Rate: 1.9 IDs/s | ETA: 2823s
+2026-03-02 18:25:59 - Progress: 3000/8210 (36.5%) | Rate: 1.9 IDs/s | ETA: 2752s
+2026-03-02 18:26:01 - Progress: 3050/8210 (37.1%) | Rate: 1.9 IDs/s | ETA: 2685s
+2026-03-02 18:26:02 - Progress: 3100/8210 (37.8%) | Rate: 2.0 IDs/s | ETA: 2618s
+2026-03-02 18:26:03 - Progress: 3150/8210 (38.4%) | Rate: 2.0 IDs/s | ETA: 2553s
+2026-03-02 18:26:05 - Progress: 3200/8210 (39.0%) | Rate: 2.0 IDs/s | ETA: 2491s
+2026-03-02 18:26:08 - Progress: 3250/8210 (39.6%) | Rate: 2.0 IDs/s | ETA: 2433s
+2026-03-02 18:26:10 - Progress: 3300/8210 (40.2%) | Rate: 2.1 IDs/s | ETA: 2375s
+2026-03-02 18:26:11 - Progress: 3350/8210 (40.8%) | Rate: 2.1 IDs/s | ETA: 2318s
+2026-03-02 18:26:13 - Progress: 3400/8210 (41.4%) | Rate: 2.1 IDs/s | ETA: 2262s
+2026-03-02 18:26:15 - Progress: 3450/8210 (42.0%) | Rate: 2.2 IDs/s | ETA: 2208s
+2026-03-02 18:26:16 - Progress: 3500/8210 (42.6%) | Rate: 2.2 IDs/s | ETA: 2156s
+2026-03-02 18:26:17 - Progress: 3550/8210 (43.2%) | Rate: 2.2 IDs/s | ETA: 2104s
+2026-03-02 18:26:18 - Progress: 3600/8210 (43.8%) | Rate: 2.2 IDs/s | ETA: 2054s
+2026-03-02 18:26:19 - Progress: 3650/8210 (44.5%) | Rate: 2.3 IDs/s | ETA: 2005s
+2026-03-02 18:26:20 - Progress: 3700/8210 (45.1%) | Rate: 2.3 IDs/s | ETA: 1957s
+2026-03-02 18:26:21 - Progress: 3750/8210 (45.7%) | Rate: 2.3 IDs/s | ETA: 1911s
+2026-03-02 18:26:24 - Progress: 3800/8210 (46.3%) | Rate: 2.4 IDs/s | ETA: 1868s
+2026-03-02 18:26:25 - Progress: 3850/8210 (46.9%) | Rate: 2.4 IDs/s | ETA: 1824s
+2026-03-02 18:26:26 - Progress: 3900/8210 (47.5%) | Rate: 2.4 IDs/s | ETA: 1782s
+2026-03-02 18:26:27 - Progress: 3950/8210 (48.1%) | Rate: 2.4 IDs/s | ETA: 1740s
+2026-03-02 18:26:28 - Progress: 4000/8210 (48.7%) | Rate: 2.5 IDs/s | ETA: 1699s
+2026-03-02 18:26:29 - Progress: 4050/8210 (49.3%) | Rate: 2.5 IDs/s | ETA: 1659s
+2026-03-02 18:26:30 - Progress: 4100/8210 (49.9%) | Rate: 2.5 IDs/s | ETA: 1620s
+2026-03-02 18:26:31 - Progress: 4150/8210 (50.5%) | Rate: 2.6 IDs/s | ETA: 1582s
+2026-03-02 18:26:32 - Progress: 4200/8210 (51.2%) | Rate: 2.6 IDs/s | ETA: 1545s
+2026-03-02 18:26:33 - Progress: 4250/8210 (51.8%) | Rate: 2.6 IDs/s | ETA: 1509s
+2026-03-02 18:26:34 - Progress: 4300/8210 (52.4%) | Rate: 2.7 IDs/s | ETA: 1473s
+2026-03-02 18:26:35 - Progress: 4350/8210 (53.0%) | Rate: 2.7 IDs/s | ETA: 1439s
+2026-03-02 18:26:36 - Progress: 4400/8210 (53.6%) | Rate: 2.7 IDs/s | ETA: 1405s
+2026-03-02 18:26:37 - Progress: 4450/8210 (54.2%) | Rate: 2.7 IDs/s | ETA: 1371s
+2026-03-02 18:26:38 - Progress: 4500/8210 (54.8%) | Rate: 2.8 IDs/s | ETA: 1339s
+2026-03-02 18:26:39 - Progress: 4550/8210 (55.4%) | Rate: 2.8 IDs/s | ETA: 1307s
+2026-03-02 18:26:40 - Progress: 4600/8210 (56.0%) | Rate: 2.8 IDs/s | ETA: 1276s
+2026-03-02 18:26:41 - Progress: 4650/8210 (56.6%) | Rate: 2.9 IDs/s | ETA: 1245s
+2026-03-02 18:26:42 - Progress: 4700/8210 (57.2%) | Rate: 2.9 IDs/s | ETA: 1216s
+2026-03-02 18:26:43 - Progress: 4750/8210 (57.9%) | Rate: 2.9 IDs/s | ETA: 1186s
+2026-03-02 18:26:44 - Progress: 4800/8210 (58.5%) | Rate: 2.9 IDs/s | ETA: 1158s
+2026-03-02 18:26:45 - Progress: 4850/8210 (59.1%) | Rate: 3.0 IDs/s | ETA: 1130s
+2026-03-02 18:26:46 - Progress: 4900/8210 (59.7%) | Rate: 3.0 IDs/s | ETA: 1102s
+2026-03-02 18:26:47 - Progress: 4950/8210 (60.3%) | Rate: 3.0 IDs/s | ETA: 1075s
+2026-03-02 18:26:48 - Progress: 5000/8210 (60.9%) | Rate: 3.1 IDs/s | ETA: 1049s
+2026-03-02 18:26:49 - Progress: 5050/8210 (61.5%) | Rate: 3.1 IDs/s | ETA: 1023s
+2026-03-02 18:26:50 - Progress: 5100/8210 (62.1%) | Rate: 3.1 IDs/s | ETA: 997s
+2026-03-02 18:26:51 - Progress: 5150/8210 (62.7%) | Rate: 3.1 IDs/s | ETA: 973s
+2026-03-02 18:26:52 - Progress: 5200/8210 (63.3%) | Rate: 3.2 IDs/s | ETA: 948s
+2026-03-02 18:26:53 - Progress: 5250/8210 (63.9%) | Rate: 3.2 IDs/s | ETA: 924s
+2026-03-02 18:26:54 - Progress: 5300/8210 (64.6%) | Rate: 3.2 IDs/s | ETA: 901s
+2026-03-02 18:26:55 - Progress: 5350/8210 (65.2%) | Rate: 3.3 IDs/s | ETA: 877s
+2026-03-02 18:26:56 - Progress: 5400/8210 (65.8%) | Rate: 3.3 IDs/s | ETA: 855s
+2026-03-02 18:26:57 - Progress: 5450/8210 (66.4%) | Rate: 3.3 IDs/s | ETA: 832s
+2026-03-02 18:26:58 - Progress: 5500/8210 (67.0%) | Rate: 3.3 IDs/s | ETA: 810s
+2026-03-02 18:26:59 - Progress: 5550/8210 (67.6%) | Rate: 3.4 IDs/s | ETA: 788s
+2026-03-02 18:27:00 - Progress: 5600/8210 (68.2%) | Rate: 3.4 IDs/s | ETA: 767s
+2026-03-02 18:27:01 - Progress: 5650/8210 (68.8%) | Rate: 3.4 IDs/s | ETA: 746s
+2026-03-02 18:27:02 - Progress: 5700/8210 (69.4%) | Rate: 3.5 IDs/s | ETA: 726s
+2026-03-02 18:27:03 - Progress: 5750/8210 (70.0%) | Rate: 3.5 IDs/s | ETA: 705s
+2026-03-02 18:27:04 - Progress: 5800/8210 (70.6%) | Rate: 3.5 IDs/s | ETA: 685s
+2026-03-02 18:27:05 - Progress: 5850/8210 (71.3%) | Rate: 3.5 IDs/s | ETA: 666s
+2026-03-02 18:27:06 - Progress: 5900/8210 (71.9%) | Rate: 3.6 IDs/s | ETA: 647s
+2026-03-02 18:27:07 - Progress: 5950/8210 (72.5%) | Rate: 3.6 IDs/s | ETA: 628s
+2026-03-02 18:27:08 - Progress: 6000/8210 (73.1%) | Rate: 3.6 IDs/s | ETA: 609s
+2026-03-02 18:27:09 - Progress: 6050/8210 (73.7%) | Rate: 3.7 IDs/s | ETA: 591s
+2026-03-02 18:27:10 - Progress: 6100/8210 (74.3%) | Rate: 3.7 IDs/s | ETA: 573s
+2026-03-02 18:27:11 - Progress: 6150/8210 (74.9%) | Rate: 3.7 IDs/s | ETA: 555s
+2026-03-02 18:27:12 - Progress: 6200/8210 (75.5%) | Rate: 3.7 IDs/s | ETA: 538s
+2026-03-02 18:27:13 - Progress: 6250/8210 (76.1%) | Rate: 3.8 IDs/s | ETA: 520s
+2026-03-02 18:27:14 - Progress: 6300/8210 (76.7%) | Rate: 3.8 IDs/s | ETA: 503s
+2026-03-02 18:27:15 - Progress: 6350/8210 (77.3%) | Rate: 3.8 IDs/s | ETA: 487s
+2026-03-02 18:27:16 - Progress: 6400/8210 (78.0%) | Rate: 3.8 IDs/s | ETA: 470s
+2026-03-02 18:27:18 - Progress: 6450/8210 (78.6%) | Rate: 3.9 IDs/s | ETA: 454s
+2026-03-02 18:27:19 - Progress: 6500/8210 (79.2%) | Rate: 3.9 IDs/s | ETA: 438s
+2026-03-02 18:27:20 - Progress: 6550/8210 (79.8%) | Rate: 3.9 IDs/s | ETA: 422s
+2026-03-02 18:27:21 - Progress: 6600/8210 (80.4%) | Rate: 4.0 IDs/s | ETA: 407s
+2026-03-02 18:27:22 - Progress: 6650/8210 (81.0%) | Rate: 4.0 IDs/s | ETA: 391s
+2026-03-02 18:27:23 - Progress: 6700/8210 (81.6%) | Rate: 4.0 IDs/s | ETA: 376s
+2026-03-02 18:27:23 - Progress: 6750/8210 (82.2%) | Rate: 4.0 IDs/s | ETA: 361s
+2026-03-02 18:27:25 - Progress: 6800/8210 (82.8%) | Rate: 4.1 IDs/s | ETA: 346s
+2026-03-02 18:27:26 - Progress: 6850/8210 (83.4%) | Rate: 4.1 IDs/s | ETA: 332s
+2026-03-02 18:27:27 - Progress: 6900/8210 (84.0%) | Rate: 4.1 IDs/s | ETA: 318s
+2026-03-02 18:27:28 - Progress: 6950/8210 (84.7%) | Rate: 4.2 IDs/s | ETA: 303s
+2026-03-02 18:27:29 - Progress: 7000/8210 (85.3%) | Rate: 4.2 IDs/s | ETA: 290s
+2026-03-02 18:27:30 - Progress: 7050/8210 (85.9%) | Rate: 4.2 IDs/s | ETA: 276s
+2026-03-02 18:27:31 - Progress: 7100/8210 (86.5%) | Rate: 4.2 IDs/s | ETA: 262s
+2026-03-02 18:27:32 - Progress: 7150/8210 (87.1%) | Rate: 4.3 IDs/s | ETA: 249s
+2026-03-02 18:27:33 - Progress: 7200/8210 (87.7%) | Rate: 4.3 IDs/s | ETA: 235s
+2026-03-02 18:27:34 - Progress: 7250/8210 (88.3%) | Rate: 4.3 IDs/s | ETA: 222s
+2026-03-02 18:27:35 - Progress: 7300/8210 (88.9%) | Rate: 4.3 IDs/s | ETA: 210s
+2026-03-02 18:27:36 - Progress: 7350/8210 (89.5%) | Rate: 4.4 IDs/s | ETA: 197s
+2026-03-02 18:27:37 - Progress: 7400/8210 (90.1%) | Rate: 4.4 IDs/s | ETA: 184s
+2026-03-02 18:27:38 - Progress: 7450/8210 (90.7%) | Rate: 4.4 IDs/s | ETA: 172s
+2026-03-02 18:27:39 - Progress: 7500/8210 (91.4%) | Rate: 4.5 IDs/s | ETA: 159s
+2026-03-02 18:27:40 - Progress: 7550/8210 (92.0%) | Rate: 4.5 IDs/s | ETA: 147s
+2026-03-02 18:27:41 - Progress: 7600/8210 (92.6%) | Rate: 4.5 IDs/s | ETA: 135s
+2026-03-02 18:27:42 - Progress: 7650/8210 (93.2%) | Rate: 4.5 IDs/s | ETA: 124s
+2026-03-02 18:27:43 - Progress: 7700/8210 (93.8%) | Rate: 4.6 IDs/s | ETA: 112s
+2026-03-02 18:27:44 - Progress: 7750/8210 (94.4%) | Rate: 4.6 IDs/s | ETA: 100s
+2026-03-02 18:27:45 - Progress: 7800/8210 (95.0%) | Rate: 4.6 IDs/s | ETA: 89s
+2026-03-02 18:27:46 - Progress: 7850/8210 (95.6%) | Rate: 4.6 IDs/s | ETA: 78s
+2026-03-02 18:27:47 - Progress: 7900/8210 (96.2%) | Rate: 4.7 IDs/s | ETA: 66s
+2026-03-02 18:27:48 - Progress: 7950/8210 (96.8%) | Rate: 4.7 IDs/s | ETA: 55s
+2026-03-02 18:27:49 - Progress: 8000/8210 (97.4%) | Rate: 4.7 IDs/s | ETA: 44s
+2026-03-02 18:27:50 - Progress: 8050/8210 (98.1%) | Rate: 4.7 IDs/s | ETA: 34s
+2026-03-02 18:27:51 - Progress: 8100/8210 (98.7%) | Rate: 4.8 IDs/s | ETA: 23s
+2026-03-02 18:27:52 - Progress: 8150/8210 (99.3%) | Rate: 4.8 IDs/s | ETA: 13s
+2026-03-02 18:27:53 - Progress: 8200/8210 (99.9%) | Rate: 4.8 IDs/s | ETA: 2s
+2026-03-02 18:27:53 - Progress: 8210/8210 (100.0%) | Rate: 4.8 IDs/s | ETA: 0s
+2026-03-02 18:27:53 - 
+======================================================================
+2026-03-02 18:27:53 - ANALYSIS RESULTS
+2026-03-02 18:27:53 - ======================================================================
+2026-03-02 18:27:53 - 
+[SUCCESS] Recovered (100% success): 0 IDs
+2026-03-02 18:27:53 -    -> These products are now back online or temporarily hidden
+2026-03-02 18:27:53 - 
+[WARNING] Intermittent (mixed): 10 IDs
+2026-03-02 18:27:53 -    -> POSSIBLE BOT DETECTION - sometimes pass, sometimes fail!
+2026-03-02 18:27:53 - 
+[FAIL] Persistent 404 (100% fail): 8200 IDs
+2026-03-02 18:27:53 -    -> Products truly deleted/don't exist
+2026-03-02 18:27:53 - 
+Saving results...
+2026-03-02 18:27:53 -    [WARNING] 10 intermittent -> output/recheck_analysis/intermittent_ids.json
+2026-03-02 18:27:53 - 
+   Examples of intermittent patterns:
+2026-03-02 18:27:53 -       ID 254080701: SSSSFSFFFF (50%)
+2026-03-02 18:27:53 -       ID 180937092: FFFSFFFFSF (20%)
+2026-03-02 18:27:53 -       ID 192859470: FSSFSFSSFF (50%)
+2026-03-02 18:27:53 -       ID 144358604: FFFFSSSFFF (30%)
+2026-03-02 18:27:53 -       ID 212563088: SSSFSFSFFF (50%)
+2026-03-02 18:27:53 -    [FAIL] 8200 persistent 404s -> output/recheck_analysis/persistent_404_ids.json
+2026-03-02 18:27:53 - 
+======================================================================
+2026-03-02 18:27:53 - SUMMARY REPORT
+2026-03-02 18:27:53 - ======================================================================
+2026-03-02 18:27:53 - 
+Total error IDs tested: 8210
+Testing attempts per ID: 10
+
+Results:
+  [SUCCESS] Recovered:            0 ( 0.00%)
+  [WARNING] Intermittent:        10 ( 0.12%) <- BOT DETECTION?
+  [FAIL]    Persistent 404:    8200 (99.88%)
+
+Interpretation:
+  - Recovered: Products are back online or were temporarily hidden
+  - Intermittent: Inconsistent results suggest bot detection
+  - Persistent 404: Products truly deleted/don't exist
+
+[WARNING] If intermittent rate > 5-10%, consider:
+     1. Reducing concurrency in main.py
+     2. Adding random delays between requests
+     3. Using the recovered data for your dataset
+        
+2026-03-02 18:27:53 - 
+Full log saved to: output/recheck_analysis/recheck_log_20260302_175934.txt

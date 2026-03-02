@@ -1,0 +1,45 @@
+DoD: Sử dụng code Python, tải về thông tin của 200k sản phẩm (list product id bên dưới) của Tiki và lưu thành các file .json. 
+Mỗi file có thông tin của khoảng 1000 sản phẩm. 
+Các thông in cần lấy bao gồm: id, name, url_key, price, description, images url. Yêu cầu chuẩn hoá nội dung trong "description" và tìm phương án rút ngắn thời gian lấy dữ liệu.
+
+- List product_id: https://1drv.ms/u/s!AukvlU4z92FZgp4xIlzQ4giHVa5Lpw?e=qDXctn
+- API get product detail: https://api.tiki.vn/product-detail/api/v1/products/138083218
+
+Lưu ý: Cần lưu lại những sản phẩm bị lỗi và lý do lỗi.
+Tổng quan về json có thể tham khảo tại đây: https://www.youtube.com/watch?v=iiADhChRriM
+Link submit project sau khi hoàn thành:  https://docs.google.com/forms/d/1iIJavuPT7haom8NQSGiBwD-d8nMKeAGCBtXvZEEtH_A/edit
+
+
+At first, i run and test the API get to check the json format of the response, the result was saved in the product_detail.json
+
+    the server response the json text successfully, and, for the id 138083218, its result contains enough attribute that we want to take
+
+    After the meeting DEC (27/2), I have defined some issues that i have to solve 
+        - When running sequetially, we have to wait this data collect process have been done about 8hrs. 
+            => reduce the time running  => maybe using multithread, sephamore
+        - Is there any error while running 
+
+        - check point??
+            - how can we detect the exactly error (may the code problem)
+            - can server dectects this problem immediately and runs again
+            - there is a tool supervisord - linux - (check pid to run again)
+
+
+
+download the csv file containing the lists of product_id containing from 0 to 200.000
+
+    curl -L -o /Users/kimcuong/data/product_ids.csv "https://example.com/file.csv" (i have directly download this file from web browser, for some reason i can not run this comman susscessfully)
+
+after download, make sure that every row in the id column have to be integers (source: https://miller.readthedocs.io/en/latest/reference-dsl-variables/#type-checking)
+    
+    mlr --csv filter '!is_int($id)' list_id/products-0-200000.csv | head -20.       
+    
+    => Every Ids in the file are integers
+
+check similar id
+
+    mlr --csv stats1 -a count -f id -g id then filter '$id_count > 1' list_id/products-0-200000.csv
+
+next, i will test the response rate limit
+
+    batch 1000
