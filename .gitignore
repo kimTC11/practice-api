@@ -8,3 +8,36 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project backups & temporary files
+*.bak
+*.backup
+README.md.bak
+TECHNICAL_GUIDE.md.bak
+
+# Logs and checkpoints
+logs/
+crawler_*.log
+checkpoint.json
+
+# Generated output files (crawled data - don't commit)
+output/errors.jsonl
+output/permanent_failures.jsonl
+output/products_batch_*.json
+output/products_batch_recovered.json
+output/recheck_analysis/
+
+# Source data files (large, external reference)
+list_id/products-0-200000.csv
